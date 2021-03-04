@@ -3,5 +3,9 @@ body {
 	background-color: #003049 ;
 	justify-content : center;
 	text-align : center ;
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+	line-height: 1.14286;
+	font-weight: 600;
+	letter-spacing: .021em;
 }
 
